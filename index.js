@@ -1,5 +1,5 @@
 var colors = require('colors');
 {
-console.log(colors.bgGreen.white('HELLO, WORLD!'));
+console.log(colors.bgRed.blue('HELLO, WORLD!'));
 }
 
